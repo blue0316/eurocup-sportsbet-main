@@ -1,0 +1,33 @@
+{
+  "flags": {
+    "Albania": "albania.png",
+    "Andorra": "andorra.png",
+    "Armenia": "armenia.png",
+    "Austria": "austria.png",
+    "Azerbaijan": "azerbaijan.png",
+    "Belarus": "belarus.png",
+    "Belgium": "belgium.png",
+    "Croatia": "croatia.png",
+    "Czech Republic": "czech_republic.png",
+    "Denmark": "denmark.png",
+    "England": "england.png",
+    "France": "france.png",
+    "Georgia": "georgia.png",
+    "Germany": "germany.png",
+    "Hungary": "hungary.png",
+    "Italy": "italy.png",
+    "Netherlands": "netherlands.png",
+    "Poland": "poland.png",
+    "Portugal": "portugal.png",
+    "Romania": "romania.png",
+    "Russia": "russia.png",
+    "Scotland": "scotland.png",
+    "Serbia": "serbia.png",
+    "Slovakia": "slovakia.png",
+    "Slovenia": "slovenia.png",
+    "Spain": "spain.png",
+    "Switzerland": "switzerland.png",
+    "Turkey": "turkey.png",
+    "Ukraine": "ukraine.png"
+  }
+}

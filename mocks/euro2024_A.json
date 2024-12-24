@@ -1,0 +1,15 @@
+{
+  "tournament": "Euro Cup Inu 2024",
+  "time_zone": "CEST (UTC+2)",
+  "matches": [
+    {
+      "id": 1,
+      "round": "Group A",
+      "date": "2024-07-14",
+      "time": "21:00",
+      "team1": {"name": "Germany", "flag": "germany.png"},
+      "team2": {"name": "Scotland", "flag": "scotland.png"},
+      "venue": "Fußball Arena München, Munich"
+    }
+  ]
+}

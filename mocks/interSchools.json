@@ -1,0 +1,34 @@
+{
+  "tournament": " InterSchools  2024",
+  "time_zone": "CEST (UTC+2)",
+  "matches": [
+    {
+      "id": 26,
+      "date": "2024-06-01",
+      "time": "13:00",
+      "team1": {
+        "name": "River Plate",
+        "flag": "albania.png"
+      },
+      "team2": {
+        "name": "ST Mary",
+        "flag": "spain.png"
+      },
+      "venue": "National Arena, Glasgow"
+    },
+    {
+      "id": 28,
+      "date": "2024-05-31",
+      "time": "21:30",
+      "team1": {
+        "name": "River Plate",
+        "flag": "spain.png"
+      },
+      "team2": {
+        "name": "Boca Juniors",
+        "flag": "andorra.png"
+      },
+      "venue": "National Arena, Glasgow"
+    }
+  ]
+}

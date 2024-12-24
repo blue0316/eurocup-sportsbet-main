@@ -1,0 +1,295 @@
+{
+  "tournament": "Euro Cup Inu 2024",
+  "time_zone": "CEST (UTC+2)",
+  "matches": [
+    {
+      "id": 1,
+      "round": "Group A",
+      "date": "2024-06-14",
+      "time": "21:00",
+      "team1": {"name": "Germany", "flag": "germany.png"},
+      "team2": {"name": "Scotland", "flag": "scotland.png"},
+      "venue": "Fußball Arena München, Munich"
+    },
+    {
+        "id": 2,
+        "date": "2024-06-15",
+        "time": "15:00",
+        "team1": {"name": "Hungary", "flag": "hungary.png"},
+        "team2": {"name": "Switzerland", "flag": "switzerland.png"},
+        "venue": "Stadion Köln, Cologne"
+    },
+    {
+        "id": 3,
+        "date": "2024-06-15",
+        "time": "18:00",
+        "team1": {"name": "Spain", "flag": "spain.png"},
+        "team2": {"name": "Croatia", "flag": "croatia.png"},
+        "venue": "Olympiastadion, Berlin"
+    },
+    {
+        "id": 4,
+        "date": "2024-06-15",
+        "time": "21:00",
+        "team1": {"name": "Italy", "flag": "italy.png"},
+        "team2": {"name": "Albania", "flag": "albania.png"},
+        "venue": "BVB Stadion Dortmund, Dortmund"
+    },
+    {
+        "id": 5,
+        "date": "2024-06-16",
+        "time": "21:00",
+        "team1": {"name": "Serbia", "flag": "serbia.png"},
+        "team2": {"name": "England", "flag": "england.png"},
+        "venue": "Arena Auf Schalke, Gelsenkirchen"
+    },
+    {
+        "id": 6,
+        "date": "2024-06-16",
+        "time": "18:00",
+        "team1": {"name": "Slovenia", "flag": "slovenia.png"},
+        "team2": {"name": "Denmark", "flag": "denmark.png"},
+        "venue": "Stuttgart Arena, Stuttgart"
+    },
+    {
+        "id": 7,
+        "date": "2024-06-16",
+        "time": "15:00",
+        "team1": {"name": "Poland", "flag": "poland.png"},
+        "team2": {"name": "Netherlands", "flag": "netherlands.png"},
+        "venue": "Volksparkstadion, Hamburg"
+    },
+    {
+        "id": 8,
+        "date": "2024-06-17",
+        "time": "21:00",
+        "team1": {"name": "Austria", "flag": "austria.png"},
+        "team2": {"name": "France", "flag": "france.png"},
+        "venue": "Düsseldorf Arena, Düsseldorf"
+    },
+    {
+        "id": 9,
+        "date": "2024-06-17",
+        "time": "18:00",
+        "team1": {"name": "Belgium", "flag": "belgium.png"},
+        "team2": {"name": "Slovakia", "flag": "slovakia.png"},
+        "venue": "Frankfurt Arena, Frankfurt"
+    },
+    {
+        "id": 10,
+        "date": "2024-06-17",
+        "time": "15:00",
+        "team1": {"name": "Romania", "flag": "romania.png"},
+        "team2": {"name": "Ukraine", "flag": "ukraine.png"},
+        "venue": "München Football Arena, Munich"
+    },
+    {
+        "id": 11,
+        "date": "2024-06-18",
+        "time": "18:00",
+        "team1": {"name": "Turkey", "flag": "turkey.png"},
+        "team2": {"name": "Georgia", "flag": "georgia.png"},
+        "venue": "BVB Stadion Dortmund, Dortmund"
+    },
+    {
+        "id": 12,
+        "date": "2024-06-18",
+        "time": "21:00",
+        "team1": {"name": "Portugal", "flag": "portugal.png"},
+        "team2": {"name": "Czech Republic", "flag": "czech-republic.png"},
+        "venue": "Leipzig Stadion, Leipzig"
+    },
+    {
+        "id": 13,
+        "date": "2024-06-19",
+        "time": "21:00",
+        "team1": {"name": "Scotland", "flag": "scotland.png"},
+        "team2": {"name": "Switzerland", "flag": "switzerland.png"},
+        "venue": "Stadion Köln, Cologne"
+    },
+    {
+        "id": 14,
+        "date": "2024-06-19",
+        "time": "18:00",
+        "team1": {"name": "Germany", "flag": "germany.png"},
+        "team2": {"name": "Hungary", "flag": "hungary.png"},
+        "venue": "Stuttgart Arena, Stuttgart"
+    },
+    {
+        "id": 15,
+        "date": "2024-06-19",
+        "time": "15:00",
+        "team1": {"name": "Croatia", "flag": "croatia.png"},
+        "team2": {"name": "Albania", "flag": "albania.png"},
+        "venue": "Volksparkstadion, Hamburg"
+    },
+    {
+        "id": 16,
+        "date": "2024-06-20",
+        "time": "21:00",
+        "team1": {"name": "Spain", "flag": "spain.png"},
+        "team2": {"name": "Italy", "flag": "italy.png"},
+        "venue": "Arena Auf Schalke, Gelsenkirchen"
+    },
+    {
+        "id": 17,
+        "date": "2024-06-20",
+        "time": "18:00",
+        "team1": {"name": "Denmark", "flag": "denmark.png"},
+        "team2": {"name": "England", "flag": "england.png"},
+        "venue": "Waldstadion, Frankfurt"
+    },
+    {
+        "id": 18,
+        "date": "2024-06-20",
+        "time": "15:00",
+        "team1": {"name": "Slovenia", "flag": "slovenia.png"},
+        "team2": {"name": "Serbia", "flag": "serbia.png"},
+        "venue": "München Football Arena, Munich"
+    },
+    {
+        "id": 19,
+        "date": "2024-06-21",
+        "time": "18:00",
+        "team1": {"name": "Poland", "flag": "poland.png"},
+        "team2": {"name": "Austria", "flag": "austria.png"},
+        "venue": "Olympiastadion, Berlin"
+    },
+    {
+        "id": 20,
+        "date": "2024-06-21",
+        "time": "21:00",
+        "team1": {"name": "Netherlands", "flag": "netherlands.png"},
+        "team2": {"name": "France", "flag": "france.png"},
+        "venue": "Leipzig Stadion, Leipzig"
+    },
+    {
+        "id": 21,
+        "date": "2024-06-21",
+        "time": "15:00",
+        "team1": {"name": "Slovakia", "flag": "slovakia.png"},
+        "team2": {"name": "Ukraine", "flag": "ukraine.png"},
+        "venue": "Düsseldorf Arena, Düsseldorf"
+    },
+    {
+        "id": 22,
+        "date": "2024-06-22",
+        "time": "21:00",
+        "team1": {"name": "Belgium", "flag": "belgium.png"},
+        "team2": {"name": "Romania", "flag": "romania.png"},
+        "venue": "Stadion Köln, Cologne"
+    },
+    {
+        "id": 23,
+        "date": "2024-06-22",
+        "time": "18:00",
+        "team1": {"name": "Turkey", "flag": "turkey.png"},
+        "team2": {"name": "Portugal", "flag": "portugal.png"},
+        "venue": "BVB Stadion Dortmund, Dortmund"
+    },
+    {
+        "id": 24,
+        "date": "2024-06-22",
+        "time": "15:00",
+        "team1": {"name": "Georgia", "flag": "georgia.png"},
+        "team2": {"name": "Czech Republic", "flag": "czech-republic.png"},
+        "venue": "Volksparkstadion, Hamburg"
+    },
+    {
+        "id": 25,
+        "date": "2024-06-23",
+        "time": "21:00",
+        "team1": {"name": "Switzerland", "flag": "switzerland.png"},
+        "team2": {"name": "Germany", "flag": "germany.png"},
+        "venue": "Frankfurt Arena, Frankfurt"
+    },
+    {
+        "id": 26,
+        "date": "2024-06-23",
+        "time": "21:00",
+        "team1": {"name": "Scotland", "flag": "scotland.png"},
+        "team2": {"name": "Hungary", "flag": "hungary.png"},
+        "venue": "Stuttgart Arena, Stuttgart"
+    },
+    {
+        "id": 27,
+        "date": "2024-06-24",
+        "time": "21:00",
+        "team1": {"name": "Albania", "flag": "albania.png"},
+        "team2": {"name": "Spain", "flag": "spain.png"},
+        "venue": "Düsseldorf Arena, Düsseldorf"
+    },
+    {
+        "id": 28,
+        "date": "2024-06-24",
+        "time": "21:00",
+        "team1": {"name": "Croatia", "flag": "croatia.png"},
+        "team2": {"name": "Italy", "flag": "italy.png"},
+        "venue": "Leipzig Stadion, Leipzig"
+    },
+    {
+        "id": 29,
+        "date": "2024-06-25",
+        "time": "21:00",
+        "team1": {"name": "England", "flag": "england.png"},
+        "team2": {"name": "Slovenia", "flag": "slovenia.png"},
+        "venue": "Stadion Köln, Cologne"
+    },
+    {
+        "id": 30,
+        "date": "2024-06-25",
+        "time": "21:00",
+        "team1": {"name": "Denmark", "flag": "denmark.png"},
+        "team2": {"name": "Serbia", "flag": "serbia.png"},
+        "venue": "München Football Arena, Munich"
+    },
+    {
+        "id": 31,
+        "date": "2024-06-25",
+        "time": "18:00",
+        "team1": {"name": "Netherlands", "flag": "netherlands.png"},
+        "team2": {"name": "Austria", "flag": "austria.png"},
+        "venue": "Olympiastadion, Berlin"
+    },
+    {
+        "id": 32,
+        "date": "2024-06-25",
+        "time": "18:00",
+        "team1": {"name": "France", "flag": "france.png"},
+        "team2": {"name": "Poland", "flag": "poland.png"},
+        "venue": "BVB Stadion Dortmund, Dortmund"
+    },
+    {
+        "id": 33,
+        "date": "2024-06-26",
+        "time": "18:00",
+        "team1": {"name": "Slovakia", "flag": "slovakia.png"},
+        "team2": {"name": "Romania", "flag": "romania.png"},
+        "venue": "Waldstadion, Frankfurt"
+    },
+    {
+        "id": 34,
+        "date": "2024-06-26",
+        "time": "18:00",
+        "team1": {"name": "Ukraine", "flag": "ukraine.png"},
+        "team2": {"name": "Belgium", "flag": "belgium.png"},
+        "venue": "Stuttgart Arena, Stuttgart"
+    },
+    {
+        "id": 35,
+        "date": "2024-06-26",
+        "time": "21:00",
+        "team1": {"name": "Georgia", "flag": "georgia.png"},
+        "team2": {"name": "Portugal", "flag": "portugal.png"},
+        "venue": "Arena Auf Schalke, Gelsenkirchen"
+    },
+    {
+        "id": 36,
+        "date": "2024-06-26",
+        "time": "21:00",
+        "team1": {"name": "Czech Republic", "flag": "czech-republic.png"},
+        "team2": {"name": "Turkey", "flag": "turkey.png"},
+        "venue": "Volksparkstadion, Hamburg"
+    }
+  ]
+}
